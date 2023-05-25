@@ -1,6 +1,6 @@
 {
   "name": "script-git-sync-file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sync a file to a Git repository (such as GitHub Gist) periodically.",
   "private": true,
   "main": "index.js",
