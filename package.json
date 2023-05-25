@@ -1,0 +1,29 @@
+{
+  "name": "script-git-sync-file",
+  "version": "0.0.1",
+  "description": "Sync a file to a Git repository (such as GitHub Gist) periodically.",
+  "private": true,
+  "main": "index.js",
+  "bin": {
+    "git-sync-file": "index.sh"
+  },
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascriptf/script-git-sync-file.git"
+  },
+  "keywords": [
+    "script",
+    "git",
+    "sync",
+    "file"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javascriptf/script-git-sync-file/issues"
+  },
+  "homepage": "https://github.com/javascriptf/script-git-sync-file#readme"
+}
