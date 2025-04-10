@@ -25,3 +25,4 @@ $ bash index.sh "<repo-url>" "<file>" "[path-in-repo=file]" "[delay=1m]"
 [![](https://img.youtube.com/vi/ZDR433b0HJY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZDR433b0HJY)<br>
 [![ORG](https://img.shields.io/badge/org-javascriptf-green?logo=Org)](https://javascriptf.github.io)
 [![DOI](https://zenodo.org/badge/645493898.svg)](https://zenodo.org/badge/latestdoi/645493898)
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/git-sync-file.sh)
